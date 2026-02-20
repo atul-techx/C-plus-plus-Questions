@@ -22,7 +22,7 @@ This repository contains **chapter-wise C++ practice questions and programs**, c
 ---
 
 ## 📂 Folder Structure
-
+```text
 C-plus-plus-Questions/
 │
 ├── Chapter1_c++/
@@ -32,7 +32,7 @@ C-plus-plus-Questions/
 ├── c/
 ├── java/
 └── .gitignore
-
+```
 
 ---
 
